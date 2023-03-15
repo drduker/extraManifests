@@ -1,0 +1,8 @@
+---
+apiVersion: v2
+name: extra-manifests
+description: A tiny chart to add just extra manifests
+type: application
+version: 0.0.0
+engine: gotpl
+appVersion: ''

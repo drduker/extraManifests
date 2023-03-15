@@ -1,0 +1,12 @@
+---
+# -- Add any number of kubernetes resources
+extraManifests: []
+  # - apiVersion: v1
+  #   kind: ConfigMap
+  #   metadata:
+  #     name: test
+  #     namespace: example
+  #   data:
+  #     .env: |
+  #       REACT_APP_HOST_BACKEND=https://test.com
+  #       REACT_APP_ENVIRONMENT=production
